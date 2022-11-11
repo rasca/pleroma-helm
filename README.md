@@ -39,9 +39,9 @@ postgresql:
 externalPostgresql:
   host: example.com
   port: 5432
-  user: plemora
-  database: plemora
-  existingSecret: plemora-auth
+  user: pleroma
+  database: pleroma
+  existingSecret: pleroma-auth
   existingSecretPasswordKey: porgresql-password
 ```
 
